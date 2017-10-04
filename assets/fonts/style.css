@@ -1,0 +1,16 @@
+@font-face {
+   font-family: 'GenYoGothicTW-Bold';
+   src: url('GenYoGothicTW-Bold/font.ttf');
+}
+@font-face {
+   font-family: 'GenWanMinTW-Medium';
+   src: url('GenWanMinTW-Medium/font.ttf');
+}
+@font-face {
+   font-family: 'GenRyuMinTW-ExtraLight';
+   src: url('GenRyuMinTW-ExtraLight/font.ttf');
+}
+@font-face {
+   font-family: 'GenYoMinTW-Light';
+   src: url('GenYoMinTW-Light/font.ttf');
+}
