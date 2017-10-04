@@ -33,7 +33,8 @@
       "additionalSetColors": []
     },
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
