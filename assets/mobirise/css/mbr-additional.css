@@ -1785,3 +1785,22 @@ body {
     -webkit-justify-content: center;
   }
 }
+.cid-qx3uYCLO4x {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #f4a997, #a09fc0);
+}
+@media (min-width: 992px) {
+  .cid-qx3uYCLO4x .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qx3uYCLO4x .mbr-figure {
+    padding-top: 3rem;
+  }
+}
+.cid-qx3uYCLO4x .mbr-text,
+.cid-qx3uYCLO4x .mbr-section-btn {
+  text-align: left;
+}
