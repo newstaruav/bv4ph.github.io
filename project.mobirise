@@ -24,7 +24,7 @@
         "display5Size": 1.5,
         "display7Font": "GenYoMinTW-Light",
         "display7Size": 1,
-        "display4Font": "GenYoGothicTW-Bold",
+        "display4Font": "GenWanMinTW-Medium",
         "display4Size": "1",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
@@ -40,7 +40,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "志銘的網站",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
